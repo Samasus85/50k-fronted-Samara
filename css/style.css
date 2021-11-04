@@ -290,6 +290,9 @@ a {
     font-size: 16px;
     color: red;
 }
+.add-to-card > i {
+    color: rgb(253, 159, 51);
+}
 
 /* BANNERS */
 .banner {
